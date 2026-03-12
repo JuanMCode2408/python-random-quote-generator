@@ -1,22 +1,11 @@
-\# Python Random Quote Generator
-
-
+# Python Random Quote Generator
 
 Simple Python script that prints a random motivational quote.
 
+## How to run
 
+python quote_generator.py
 
-\## How to run
-
-
-
-python quote\_generator.py
-
-
-
-\## Technologies
-
-
+## Technologies
 
 Python
-
